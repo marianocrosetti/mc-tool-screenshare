@@ -1,0 +1,9 @@
+mss>=9.0.0
+Pillow>=10.0.0
+mcp>=1.0.0
+anthropic>=0.40.0
+
+# Optional: for screen_share_cli.py live preview
+opencv-python>=4.8.0
+numpy>=1.24.0
+
